@@ -1,7 +1,7 @@
 # Water Leak Detection and Classification with Complex-valued Neural Networks and Sensor Fusion
 Official repository for the paper " Water Leak Detection and Classification with Complex-valued Neural Networks and Sensor Fusion"
 ---
-## Abstract 
+**Abstract**
 
 Water scarcity is a critical issue: the impact of leaks and pipe breaks accounts for 30% of urban water
 loss, contributing significantly to the global water crisis. Early detection offers a multitude of benefits,
@@ -16,6 +16,8 @@ of the proposed method is validated through experimentation on two distinct data
 method, we are able to achieve a balanced accuracy value of 99% for both detection and classification
 problems. The results demonstrate that our solution outperforms recent methods for leak detection and
 classification, highlighting its potential to contribute significantly to improved water resource management.
+
+
 ---
 
 ## :busts_in_silhouette: About Us
