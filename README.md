@@ -1,6 +1,6 @@
 # Water Leak Detection and Classification with Complex-valued Neural Networks and Sensor Fusion
-Official repository for the paper " Water Leak Detection and Classification with Complex-valued Neural Networks and Sensor Fusion"
----
+
+
 **Abstract**
 
 Water scarcity is a critical issue: the impact of leaks and pipe breaks accounts for 30% of urban water
@@ -26,15 +26,11 @@ classification, highlighting its potential to contribute significantly to improv
 - Image and Sound Processing Lab ([ISPL](http://ispl.deib.polimi.it/))
 - Department of Electronics, Information and Bioengineering ([DEIB](https://www.deib.polimi.it/eng/home-page))
 - [Politecnico di Milano](https://www.polimi.it/en)
-- [Arianet srl](https://www.aria-net.it/it/)
-- [SUEZ]()
 
 **Team**
 
-- Antonio Giganti, [ResearchGate](https://www.researchgate.net/profile/Antonio-Giganti), [LinkedIn](https://www.linkedin.com/in/antoniogiganti/)
-- Sara Mandelli, [ResearchGate](https://www.researchgate.net/profile/Sara-Mandelli), [LinkedIn](https://www.linkedin.com/in/saramandelli/)
+- Daniele Ugo Leonzio, [LinkedIn](https://www.linkedin.com/in/danieleugoleonzio/)
+- Sara Mandelli, [LinkedIn](https://www.linkedin.com/in/saramandelli/)
 - Paolo Bestagini, [LinkedIn](https://www.linkedin.com/in/paolo-bestagini-390b461b4/)
-- Umberto Giuriato, [ResearchGate](), [LinkedIn]()
-- Alessandro D’Ausilio, [ResearchGate](), [LinkedIn]()
 - Marco Marcon, [LinkedIn](https://www.linkedin.com/in/marco-marcon-26140b13/)
-- Stefano Tubaro, [ResearchGate](https://www.researchgate.net/profile/Stefano-Tubaro), [LinkedIn](https://www.linkedin.com/in/stefano-tubaro-73aa9916/)
+- Stefano Tubaro, [LinkedIn](https://www.linkedin.com/in/stefano-tubaro-73aa9916/)
